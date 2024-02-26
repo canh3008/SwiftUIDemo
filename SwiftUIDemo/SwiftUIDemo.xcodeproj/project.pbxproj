@@ -15,6 +15,7 @@
 		53EDADCB2B8CC617009780C3 /* SwiftUIDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADCA2B8CC617009780C3 /* SwiftUIDemoUITests.swift */; };
 		53EDADCD2B8CC617009780C3 /* SwiftUIDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADCC2B8CC617009780C3 /* SwiftUIDemoUITestsLaunchTests.swift */; };
 		53EDADDA2B8CC8DB009780C3 /* TextDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADD92B8CC8DB009780C3 /* TextDemo.swift */; };
+		53EDADDC2B8CD30C009780C3 /* ShapesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADDB2B8CD30C009780C3 /* ShapesDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		53EDADCA2B8CC617009780C3 /* SwiftUIDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoUITests.swift; sourceTree = "<group>"; };
 		53EDADCC2B8CC617009780C3 /* SwiftUIDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		53EDADD92B8CC8DB009780C3 /* TextDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextDemo.swift; sourceTree = "<group>"; };
+		53EDADDB2B8CD30C009780C3 /* ShapesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				53EDADB32B8CC617009780C3 /* Assets.xcassets */,
 				53EDADB52B8CC617009780C3 /* Preview Content */,
 				53EDADD92B8CC8DB009780C3 /* TextDemo.swift */,
+				53EDADDB2B8CD30C009780C3 /* ShapesDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				53EDADDC2B8CD30C009780C3 /* ShapesDemo.swift in Sources */,
 				53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */,
 				53EDADDA2B8CC8DB009780C3 /* TextDemo.swift in Sources */,
 				53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */,
