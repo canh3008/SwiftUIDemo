@@ -16,6 +16,7 @@
 		53EDADCD2B8CC617009780C3 /* SwiftUIDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADCC2B8CC617009780C3 /* SwiftUIDemoUITestsLaunchTests.swift */; };
 		53EDADDA2B8CC8DB009780C3 /* TextDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADD92B8CC8DB009780C3 /* TextDemo.swift */; };
 		53EDADDC2B8CD30C009780C3 /* ShapesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADDB2B8CD30C009780C3 /* ShapesDemo.swift */; };
+		53EDADDE2B8CE579009780C3 /* GradientDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADDD2B8CE579009780C3 /* GradientDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		53EDADCC2B8CC617009780C3 /* SwiftUIDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		53EDADD92B8CC8DB009780C3 /* TextDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextDemo.swift; sourceTree = "<group>"; };
 		53EDADDB2B8CD30C009780C3 /* ShapesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesDemo.swift; sourceTree = "<group>"; };
+		53EDADDD2B8CE579009780C3 /* GradientDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				53EDADB52B8CC617009780C3 /* Preview Content */,
 				53EDADD92B8CC8DB009780C3 /* TextDemo.swift */,
 				53EDADDB2B8CD30C009780C3 /* ShapesDemo.swift */,
+				53EDADDD2B8CE579009780C3 /* GradientDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				53EDADDC2B8CD30C009780C3 /* ShapesDemo.swift in Sources */,
 				53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */,
 				53EDADDA2B8CC8DB009780C3 /* TextDemo.swift in Sources */,
+				53EDADDE2B8CE579009780C3 /* GradientDemo.swift in Sources */,
 				53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
