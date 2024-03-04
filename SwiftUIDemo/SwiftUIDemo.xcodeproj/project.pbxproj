@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5319FD822B960F0C0033D8BA /* ImageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5319FD812B960F0C0033D8BA /* ImageDemo.swift */; };
 		53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */; };
 		53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADB12B8CC615009780C3 /* ContentView.swift */; };
 		53EDADB42B8CC617009780C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53EDADB32B8CC617009780C3 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5319FD812B960F0C0033D8BA /* ImageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDemo.swift; sourceTree = "<group>"; };
 		53EDADAC2B8CC615009780C3 /* SwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoApp.swift; sourceTree = "<group>"; };
 		53EDADB12B8CC615009780C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				53EDADD92B8CC8DB009780C3 /* TextDemo.swift */,
 				53EDADDB2B8CD30C009780C3 /* ShapesDemo.swift */,
 				53EDADDD2B8CE579009780C3 /* GradientDemo.swift */,
+				5319FD812B960F0C0033D8BA /* ImageDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			files = (
 				53EDADDC2B8CD30C009780C3 /* ShapesDemo.swift in Sources */,
 				53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */,
+				5319FD822B960F0C0033D8BA /* ImageDemo.swift in Sources */,
 				53EDADDA2B8CC8DB009780C3 /* TextDemo.swift in Sources */,
 				53EDADDE2B8CE579009780C3 /* GradientDemo.swift in Sources */,
 				53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */,
