@@ -12,6 +12,7 @@
 		5319FD862B9615B40033D8BA /* BackgroundAndOverlayDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5319FD852B9615B40033D8BA /* BackgroundAndOverlayDemo.swift */; };
 		536946682C0DFFBF00DDB838 /* VStack_HStack_ZStackDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 536946672C0DFFBF00DDB838 /* VStack_HStack_ZStackDemo.swift */; };
 		5369466C2C0E041700DDB838 /* PaddingAndSpacerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5369466B2C0E041700DDB838 /* PaddingAndSpacerDemo.swift */; };
+		5369466E2C0F4E2A00DDB838 /* ScrollViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5369466D2C0F4E2A00DDB838 /* ScrollViewDemo.swift */; };
 		53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */; };
 		53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADB12B8CC615009780C3 /* ContentView.swift */; };
 		53EDADB42B8CC617009780C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53EDADB32B8CC617009780C3 /* Assets.xcassets */; };
@@ -47,6 +48,7 @@
 		5319FD852B9615B40033D8BA /* BackgroundAndOverlayDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayDemo.swift; sourceTree = "<group>"; };
 		536946672C0DFFBF00DDB838 /* VStack_HStack_ZStackDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStack_HStack_ZStackDemo.swift; sourceTree = "<group>"; };
 		5369466B2C0E041700DDB838 /* PaddingAndSpacerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerDemo.swift; sourceTree = "<group>"; };
+		5369466D2C0F4E2A00DDB838 /* ScrollViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewDemo.swift; sourceTree = "<group>"; };
 		53EDADAC2B8CC615009780C3 /* SwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoApp.swift; sourceTree = "<group>"; };
 		53EDADB12B8CC615009780C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				5319FD852B9615B40033D8BA /* BackgroundAndOverlayDemo.swift */,
 				536946672C0DFFBF00DDB838 /* VStack_HStack_ZStackDemo.swift */,
 				5369466B2C0E041700DDB838 /* PaddingAndSpacerDemo.swift */,
+				5369466D2C0F4E2A00DDB838 /* ScrollViewDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 				5319FD842B9613D90033D8BA /* FrameDemo.swift in Sources */,
 				5319FD862B9615B40033D8BA /* BackgroundAndOverlayDemo.swift in Sources */,
 				5319FD822B960F0C0033D8BA /* ImageDemo.swift in Sources */,
+				5369466E2C0F4E2A00DDB838 /* ScrollViewDemo.swift in Sources */,
 				53EDADDA2B8CC8DB009780C3 /* TextDemo.swift in Sources */,
 				53EDADDE2B8CE579009780C3 /* GradientDemo.swift in Sources */,
 				536946682C0DFFBF00DDB838 /* VStack_HStack_ZStackDemo.swift in Sources */,
