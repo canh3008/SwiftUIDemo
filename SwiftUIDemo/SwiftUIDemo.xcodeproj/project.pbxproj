@@ -19,6 +19,7 @@
 		536946762C100A1C00DDB838 /* ExtractedFuntionsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 536946752C100A1C00DDB838 /* ExtractedFuntionsDemo.swift */; };
 		53A3B22D2C12970900680977 /* BindingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A3B22C2C12970900680977 /* BindingDemo.swift */; };
 		53A3B22F2C129CCA00680977 /* AnimationDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A3B22E2C129CCA00680977 /* AnimationDemo.swift */; };
+		53B285D92C1C7B11007DB29F /* SheetsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285D82C1C7B11007DB29F /* SheetsDemo.swift */; };
 		53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */; };
 		53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADB12B8CC615009780C3 /* ContentView.swift */; };
 		53EDADB42B8CC617009780C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53EDADB32B8CC617009780C3 /* Assets.xcassets */; };
@@ -61,6 +62,7 @@
 		536946752C100A1C00DDB838 /* ExtractedFuntionsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFuntionsDemo.swift; sourceTree = "<group>"; };
 		53A3B22C2C12970900680977 /* BindingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingDemo.swift; sourceTree = "<group>"; };
 		53A3B22E2C129CCA00680977 /* AnimationDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationDemo.swift; sourceTree = "<group>"; };
+		53B285D82C1C7B11007DB29F /* SheetsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsDemo.swift; sourceTree = "<group>"; };
 		53EDADAC2B8CC615009780C3 /* SwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoApp.swift; sourceTree = "<group>"; };
 		53EDADB12B8CC615009780C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 				536946752C100A1C00DDB838 /* ExtractedFuntionsDemo.swift */,
 				53A3B22C2C12970900680977 /* BindingDemo.swift */,
 				53A3B22E2C129CCA00680977 /* AnimationDemo.swift */,
+				53B285D82C1C7B11007DB29F /* SheetsDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -306,6 +309,7 @@
 				53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */,
 				536946742C10048300DDB838 /* ButtonDemo.swift in Sources */,
 				5319FD842B9613D90033D8BA /* FrameDemo.swift in Sources */,
+				53B285D92C1C7B11007DB29F /* SheetsDemo.swift in Sources */,
 				5319FD862B9615B40033D8BA /* BackgroundAndOverlayDemo.swift in Sources */,
 				5319FD822B960F0C0033D8BA /* ImageDemo.swift in Sources */,
 				5369466E2C0F4E2A00DDB838 /* ScrollViewDemo.swift in Sources */,
