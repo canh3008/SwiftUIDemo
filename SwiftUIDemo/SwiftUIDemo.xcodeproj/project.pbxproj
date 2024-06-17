@@ -23,6 +23,7 @@
 		53B285E32C1E9053007DB29F /* ActionListDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285E22C1E9053007DB29F /* ActionListDemo.swift */; };
 		53B285E52C1ED5E8007DB29F /* AlertDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285E42C1ED5E8007DB29F /* AlertDemo.swift */; };
 		53B285E72C1EDEAF007DB29F /* ActionSheetDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285E62C1EDEAF007DB29F /* ActionSheetDemo.swift */; };
+		53B285E92C1EE2A9007DB29F /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285E82C1EE2A9007DB29F /* TextFieldDemo.swift */; };
 		53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */; };
 		53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADB12B8CC615009780C3 /* ContentView.swift */; };
 		53EDADB42B8CC617009780C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53EDADB32B8CC617009780C3 /* Assets.xcassets */; };
@@ -69,6 +70,7 @@
 		53B285E22C1E9053007DB29F /* ActionListDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionListDemo.swift; sourceTree = "<group>"; };
 		53B285E42C1ED5E8007DB29F /* AlertDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertDemo.swift; sourceTree = "<group>"; };
 		53B285E62C1EDEAF007DB29F /* ActionSheetDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetDemo.swift; sourceTree = "<group>"; };
+		53B285E82C1EE2A9007DB29F /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
 		53EDADAC2B8CC615009780C3 /* SwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoApp.swift; sourceTree = "<group>"; };
 		53EDADB12B8CC615009780C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				53B285E22C1E9053007DB29F /* ActionListDemo.swift */,
 				53B285E42C1ED5E8007DB29F /* AlertDemo.swift */,
 				53B285E62C1EDEAF007DB29F /* ActionSheetDemo.swift */,
+				53B285E82C1EE2A9007DB29F /* TextFieldDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 				53EDADDE2B8CE579009780C3 /* GradientDemo.swift in Sources */,
 				53B285E52C1ED5E8007DB29F /* AlertDemo.swift in Sources */,
 				53B285E32C1E9053007DB29F /* ActionListDemo.swift in Sources */,
+				53B285E92C1EE2A9007DB29F /* TextFieldDemo.swift in Sources */,
 				536946722C0FDE7300DDB838 /* IgnorSafeAreaDemo.swift in Sources */,
 				536946762C100A1C00DDB838 /* ExtractedFuntionsDemo.swift in Sources */,
 				536946702C0F551A00DDB838 /* GridDemo.swift in Sources */,
