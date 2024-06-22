@@ -21,6 +21,7 @@
 		537F86CD2C23219B00AED491 /* ColorPickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537F86CC2C23219B00AED491 /* ColorPickerDemo.swift */; };
 		537F86CF2C232D4300AED491 /* DatePickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537F86CE2C232D4300AED491 /* DatePickerDemo.swift */; };
 		5399554E2C26635A00F07AE0 /* TabViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5399554D2C26635A00F07AE0 /* TabViewDemo.swift */; };
+		539955502C266EAA00F07AE0 /* DarkModeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5399554F2C266EAA00F07AE0 /* DarkModeDemo.swift */; };
 		53A3B22D2C12970900680977 /* BindingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A3B22C2C12970900680977 /* BindingDemo.swift */; };
 		53A3B22F2C129CCA00680977 /* AnimationDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53A3B22E2C129CCA00680977 /* AnimationDemo.swift */; };
 		53B285D92C1C7B11007DB29F /* SheetsDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285D82C1C7B11007DB29F /* SheetsDemo.swift */; };
@@ -74,6 +75,7 @@
 		537F86CC2C23219B00AED491 /* ColorPickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerDemo.swift; sourceTree = "<group>"; };
 		537F86CE2C232D4300AED491 /* DatePickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerDemo.swift; sourceTree = "<group>"; };
 		5399554D2C26635A00F07AE0 /* TabViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewDemo.swift; sourceTree = "<group>"; };
+		5399554F2C266EAA00F07AE0 /* DarkModeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeDemo.swift; sourceTree = "<group>"; };
 		53A3B22C2C12970900680977 /* BindingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingDemo.swift; sourceTree = "<group>"; };
 		53A3B22E2C129CCA00680977 /* AnimationDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationDemo.swift; sourceTree = "<group>"; };
 		53B285D82C1C7B11007DB29F /* SheetsDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsDemo.swift; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 				537F86CC2C23219B00AED491 /* ColorPickerDemo.swift */,
 				537F86CE2C232D4300AED491 /* DatePickerDemo.swift */,
 				5399554D2C26635A00F07AE0 /* TabViewDemo.swift */,
+				5399554F2C266EAA00F07AE0 /* DarkModeDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -367,6 +370,7 @@
 				537F86C92C23077B00AED491 /* PickerDemo.swift in Sources */,
 				53A3B22D2C12970900680977 /* BindingDemo.swift in Sources */,
 				536946682C0DFFBF00DDB838 /* VStack_HStack_ZStackDemo.swift in Sources */,
+				539955502C266EAA00F07AE0 /* DarkModeDemo.swift in Sources */,
 				5369466C2C0E041700DDB838 /* PaddingAndSpacerDemo.swift in Sources */,
 				53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */,
 				537F86CF2C232D4300AED491 /* DatePickerDemo.swift in Sources */,
