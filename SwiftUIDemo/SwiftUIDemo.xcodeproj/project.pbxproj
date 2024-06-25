@@ -34,6 +34,7 @@
 		53B285E92C1EE2A9007DB29F /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285E82C1EE2A9007DB29F /* TextFieldDemo.swift */; };
 		53B285EB2C207BE6007DB29F /* TextEditorDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285EA2C207BE6007DB29F /* TextEditorDemo.swift */; };
 		53B285EE2C20801B007DB29F /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285ED2C20801B007DB29F /* View+Extension.swift */; };
+		53E3B66C2C2ACF2F00BA5F67 /* AppStorageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E3B66B2C2ACF2F00BA5F67 /* AppStorageDemo.swift */; };
 		53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */; };
 		53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53EDADB12B8CC615009780C3 /* ContentView.swift */; };
 		53EDADB42B8CC617009780C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53EDADB32B8CC617009780C3 /* Assets.xcassets */; };
@@ -91,6 +92,7 @@
 		53B285E82C1EE2A9007DB29F /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
 		53B285EA2C207BE6007DB29F /* TextEditorDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorDemo.swift; sourceTree = "<group>"; };
 		53B285ED2C20801B007DB29F /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		53E3B66B2C2ACF2F00BA5F67 /* AppStorageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageDemo.swift; sourceTree = "<group>"; };
 		53EDADAC2B8CC615009780C3 /* SwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		53EDADAF2B8CC615009780C3 /* SwiftUIDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoApp.swift; sourceTree = "<group>"; };
 		53EDADB12B8CC615009780C3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -196,6 +198,7 @@
 				53927E512C2688F800FB842D /* TapGestureDemo.swift */,
 				53166CCC2C29A67100DFF857 /* WrapperObjectDemo.swift */,
 				53166CCE2C2AAD6600DFF857 /* EnvironmentObjectDemo.swift */,
+				53E3B66B2C2ACF2F00BA5F67 /* AppStorageDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -356,6 +359,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				53EDADDC2B8CD30C009780C3 /* ShapesDemo.swift in Sources */,
+				53E3B66C2C2ACF2F00BA5F67 /* AppStorageDemo.swift in Sources */,
 				53EDADB22B8CC615009780C3 /* ContentView.swift in Sources */,
 				536946742C10048300DDB838 /* ButtonDemo.swift in Sources */,
 				5319FD842B9613D90033D8BA /* FrameDemo.swift in Sources */,
