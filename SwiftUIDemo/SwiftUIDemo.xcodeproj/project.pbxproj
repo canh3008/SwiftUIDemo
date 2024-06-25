@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		53166CCD2C29A67100DFF857 /* WrapperObjectDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53166CCC2C29A67100DFF857 /* WrapperObjectDemo.swift */; };
+		53166CCF2C2AAD6600DFF857 /* EnvironmentObjectDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53166CCE2C2AAD6600DFF857 /* EnvironmentObjectDemo.swift */; };
 		5319FD822B960F0C0033D8BA /* ImageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5319FD812B960F0C0033D8BA /* ImageDemo.swift */; };
 		5319FD842B9613D90033D8BA /* FrameDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5319FD832B9613D90033D8BA /* FrameDemo.swift */; };
 		5319FD862B9615B40033D8BA /* BackgroundAndOverlayDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5319FD852B9615B40033D8BA /* BackgroundAndOverlayDemo.swift */; };
@@ -64,6 +65,7 @@
 
 /* Begin PBXFileReference section */
 		53166CCC2C29A67100DFF857 /* WrapperObjectDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WrapperObjectDemo.swift; sourceTree = "<group>"; };
+		53166CCE2C2AAD6600DFF857 /* EnvironmentObjectDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectDemo.swift; sourceTree = "<group>"; };
 		5319FD812B960F0C0033D8BA /* ImageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageDemo.swift; sourceTree = "<group>"; };
 		5319FD832B9613D90033D8BA /* FrameDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameDemo.swift; sourceTree = "<group>"; };
 		5319FD852B9615B40033D8BA /* BackgroundAndOverlayDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayDemo.swift; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 				5399554F2C266EAA00F07AE0 /* DarkModeDemo.swift */,
 				53927E512C2688F800FB842D /* TapGestureDemo.swift */,
 				53166CCC2C29A67100DFF857 /* WrapperObjectDemo.swift */,
+				53166CCE2C2AAD6600DFF857 /* EnvironmentObjectDemo.swift */,
 			);
 			path = SwiftUIDemo;
 			sourceTree = "<group>";
@@ -359,6 +362,7 @@
 				53B285D92C1C7B11007DB29F /* SheetsDemo.swift in Sources */,
 				5319FD862B9615B40033D8BA /* BackgroundAndOverlayDemo.swift in Sources */,
 				53166CCD2C29A67100DFF857 /* WrapperObjectDemo.swift in Sources */,
+				53166CCF2C2AAD6600DFF857 /* EnvironmentObjectDemo.swift in Sources */,
 				537F86CD2C23219B00AED491 /* ColorPickerDemo.swift in Sources */,
 				5319FD822B960F0C0033D8BA /* ImageDemo.swift in Sources */,
 				5369466E2C0F4E2A00DDB838 /* ScrollViewDemo.swift in Sources */,
