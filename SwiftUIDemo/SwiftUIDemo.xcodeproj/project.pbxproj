@@ -35,6 +35,8 @@
 		53B285EB2C207BE6007DB29F /* TextEditorDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285EA2C207BE6007DB29F /* TextEditorDemo.swift */; };
 		53B285EE2C20801B007DB29F /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53B285ED2C20801B007DB29F /* View+Extension.swift */; };
 		53DF769B2C41694F001B0B66 /* HashableDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DF769A2C41694F001B0B66 /* HashableDemo.swift */; };
+		53DF769D2C44B8AD001B0B66 /* CoreDataDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53DF769C2C44B8AD001B0B66 /* CoreDataDemo.swift */; };
+		53DF76A02C44B8D2001B0B66 /* FruitContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 53DF769E2C44B8D2001B0B66 /* FruitContainer.xcdatamodeld */; };
 		53E3B66C2C2ACF2F00BA5F67 /* AppStorageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E3B66B2C2ACF2F00BA5F67 /* AppStorageDemo.swift */; };
 		53E3B66E2C2D585100BA5F67 /* AsyncImageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E3B66D2C2D585100BA5F67 /* AsyncImageDemo.swift */; };
 		53E3B6702C2D9F5300BA5F67 /* BadgesDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53E3B66F2C2D9F5300BA5F67 /* BadgesDemo.swift */; };
@@ -97,6 +99,8 @@
 		53B285EA2C207BE6007DB29F /* TextEditorDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorDemo.swift; sourceTree = "<group>"; };
 		53B285ED2C20801B007DB29F /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
 		53DF769A2C41694F001B0B66 /* HashableDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableDemo.swift; sourceTree = "<group>"; };
+		53DF769C2C44B8AD001B0B66 /* CoreDataDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataDemo.swift; sourceTree = "<group>"; };
+		53DF769F2C44B8D2001B0B66 /* FruitContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitContainer.xcdatamodel; sourceTree = "<group>"; };
 		53E3B66B2C2ACF2F00BA5F67 /* AppStorageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageDemo.swift; sourceTree = "<group>"; };
 		53E3B66D2C2D585100BA5F67 /* AsyncImageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageDemo.swift; sourceTree = "<group>"; };
 		53E3B66F2C2D9F5300BA5F67 /* BadgesDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesDemo.swift; sourceTree = "<group>"; };
@@ -153,6 +157,8 @@
 			isa = PBXGroup;
 			children = (
 				53DF769A2C41694F001B0B66 /* HashableDemo.swift */,
+				53DF769C2C44B8AD001B0B66 /* CoreDataDemo.swift */,
+				53DF769E2C44B8D2001B0B66 /* FruitContainer.xcdatamodeld */,
 			);
 			path = Intermediate;
 			sourceTree = "<group>";
@@ -409,7 +415,9 @@
 				536946702C0F551A00DDB838 /* GridDemo.swift in Sources */,
 				537F86C92C23077B00AED491 /* PickerDemo.swift in Sources */,
 				53A3B22D2C12970900680977 /* BindingDemo.swift in Sources */,
+				53DF769D2C44B8AD001B0B66 /* CoreDataDemo.swift in Sources */,
 				536946682C0DFFBF00DDB838 /* VStack_HStack_ZStackDemo.swift in Sources */,
+				53DF76A02C44B8D2001B0B66 /* FruitContainer.xcdatamodeld in Sources */,
 				539955502C266EAA00F07AE0 /* DarkModeDemo.swift in Sources */,
 				5369466C2C0E041700DDB838 /* PaddingAndSpacerDemo.swift in Sources */,
 				53EDADB02B8CC615009780C3 /* SwiftUIDemoApp.swift in Sources */,
@@ -744,6 +752,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		53DF769E2C44B8D2001B0B66 /* FruitContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				53DF769F2C44B8D2001B0B66 /* FruitContainer.xcdatamodel */,
+			);
+			currentVersion = 53DF769F2C44B8D2001B0B66 /* FruitContainer.xcdatamodel */;
+			path = FruitContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 53EDADA42B8CC615009780C3 /* Project object */;
 }
