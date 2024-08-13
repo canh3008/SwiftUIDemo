@@ -24,6 +24,7 @@
 		537F86CF2C232D4300AED491 /* DatePickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537F86CE2C232D4300AED491 /* DatePickerDemo.swift */; };
 		539115ED2C6B075B003060F1 /* ViewModifierDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539115EC2C6B075B003060F1 /* ViewModifierDemo.swift */; };
 		539115EF2C6B0E99003060F1 /* ButtonStyleDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539115EE2C6B0E99003060F1 /* ButtonStyleDemo.swift */; };
+		539115F12C6B16C1003060F1 /* AnyTransitionDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539115F02C6B16C1003060F1 /* AnyTransitionDemo.swift */; };
 		53927E522C2688F800FB842D /* TapGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53927E512C2688F800FB842D /* TapGestureDemo.swift */; };
 		5399554E2C26635A00F07AE0 /* TabViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5399554D2C26635A00F07AE0 /* TabViewDemo.swift */; };
 		539955502C266EAA00F07AE0 /* DarkModeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5399554F2C266EAA00F07AE0 /* DarkModeDemo.swift */; };
@@ -90,6 +91,7 @@
 		537F86CE2C232D4300AED491 /* DatePickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerDemo.swift; sourceTree = "<group>"; };
 		539115EC2C6B075B003060F1 /* ViewModifierDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierDemo.swift; sourceTree = "<group>"; };
 		539115EE2C6B0E99003060F1 /* ButtonStyleDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleDemo.swift; sourceTree = "<group>"; };
+		539115F02C6B16C1003060F1 /* AnyTransitionDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionDemo.swift; sourceTree = "<group>"; };
 		53927E512C2688F800FB842D /* TapGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureDemo.swift; sourceTree = "<group>"; };
 		5399554D2C26635A00F07AE0 /* TabViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewDemo.swift; sourceTree = "<group>"; };
 		5399554F2C266EAA00F07AE0 /* DarkModeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeDemo.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 			children = (
 				539115EC2C6B075B003060F1 /* ViewModifierDemo.swift */,
 				539115EE2C6B0E99003060F1 /* ButtonStyleDemo.swift */,
+				539115F02C6B16C1003060F1 /* AnyTransitionDemo.swift */,
 			);
 			path = Advanced;
 			sourceTree = "<group>";
@@ -432,6 +435,7 @@
 				537F86C92C23077B00AED491 /* PickerDemo.swift in Sources */,
 				53A3B22D2C12970900680977 /* BindingDemo.swift in Sources */,
 				53DF769D2C44B8AD001B0B66 /* CoreDataDemo.swift in Sources */,
+				539115F12C6B16C1003060F1 /* AnyTransitionDemo.swift in Sources */,
 				536946682C0DFFBF00DDB838 /* VStack_HStack_ZStackDemo.swift in Sources */,
 				53DF76A02C44B8D2001B0B66 /* FruitContainer.xcdatamodeld in Sources */,
 				539955502C266EAA00F07AE0 /* DarkModeDemo.swift in Sources */,
