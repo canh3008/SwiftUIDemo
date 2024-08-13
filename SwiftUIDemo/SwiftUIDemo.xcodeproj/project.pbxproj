@@ -22,6 +22,7 @@
 		537F86C92C23077B00AED491 /* PickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537F86C82C23077B00AED491 /* PickerDemo.swift */; };
 		537F86CD2C23219B00AED491 /* ColorPickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537F86CC2C23219B00AED491 /* ColorPickerDemo.swift */; };
 		537F86CF2C232D4300AED491 /* DatePickerDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 537F86CE2C232D4300AED491 /* DatePickerDemo.swift */; };
+		539115ED2C6B075B003060F1 /* ViewModifierDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 539115EC2C6B075B003060F1 /* ViewModifierDemo.swift */; };
 		53927E522C2688F800FB842D /* TapGestureDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53927E512C2688F800FB842D /* TapGestureDemo.swift */; };
 		5399554E2C26635A00F07AE0 /* TabViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5399554D2C26635A00F07AE0 /* TabViewDemo.swift */; };
 		539955502C266EAA00F07AE0 /* DarkModeDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5399554F2C266EAA00F07AE0 /* DarkModeDemo.swift */; };
@@ -86,6 +87,7 @@
 		537F86C82C23077B00AED491 /* PickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerDemo.swift; sourceTree = "<group>"; };
 		537F86CC2C23219B00AED491 /* ColorPickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerDemo.swift; sourceTree = "<group>"; };
 		537F86CE2C232D4300AED491 /* DatePickerDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerDemo.swift; sourceTree = "<group>"; };
+		539115EC2C6B075B003060F1 /* ViewModifierDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierDemo.swift; sourceTree = "<group>"; };
 		53927E512C2688F800FB842D /* TapGestureDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureDemo.swift; sourceTree = "<group>"; };
 		5399554D2C26635A00F07AE0 /* TabViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewDemo.swift; sourceTree = "<group>"; };
 		5399554F2C266EAA00F07AE0 /* DarkModeDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeDemo.swift; sourceTree = "<group>"; };
@@ -145,6 +147,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		539115EB2C6B06CA003060F1 /* Advanced */ = {
+			isa = PBXGroup;
+			children = (
+				539115EC2C6B075B003060F1 /* ViewModifierDemo.swift */,
+			);
+			path = Advanced;
+			sourceTree = "<group>";
+		};
 		53B285EC2C208001007DB29F /* Extension */ = {
 			isa = PBXGroup;
 			children = (
@@ -231,6 +241,7 @@
 		53EDADB52B8CC617009780C3 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				539115EB2C6B06CA003060F1 /* Advanced */,
 				53DF76972C4168F4001B0B66 /* Intermediate */,
 				53EDADB62B8CC617009780C3 /* Preview Assets.xcassets */,
 			);
@@ -400,6 +411,7 @@
 				5369466E2C0F4E2A00DDB838 /* ScrollViewDemo.swift in Sources */,
 				53A3B22F2C129CCA00680977 /* AnimationDemo.swift in Sources */,
 				53B285E72C1EDEAF007DB29F /* ActionSheetDemo.swift in Sources */,
+				539115ED2C6B075B003060F1 /* ViewModifierDemo.swift in Sources */,
 				53B285EE2C20801B007DB29F /* View+Extension.swift in Sources */,
 				53EDADDA2B8CC8DB009780C3 /* TextDemo.swift in Sources */,
 				53B285EB2C207BE6007DB29F /* TextEditorDemo.swift in Sources */,
